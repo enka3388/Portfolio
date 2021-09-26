@@ -9,3 +9,5 @@ Pandas_Movie_rating.ipynb - изучаем рейтинги фильмов с 19
 
 Regular_expressions.ipynb - находим новостные сайты
 
+Revenue_by_transport.ipynb - анализируем результаты продаж по виду транспорта, объединяем данные клиентов с данными по продажам
+
