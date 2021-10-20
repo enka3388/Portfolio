@@ -36,7 +36,6 @@
 - Прибыль
 - ARPPUm = Average Revenue Per Paying User Margin
 - ARPLm = Average Revenue Per Lead Margin
-- ДРР = расходы на рекламу / выручка  * 100%.
 - CAC = Customer Acquisition Cost
 - CPA = Cost Per Action
 - CPC = Cost Per Click
